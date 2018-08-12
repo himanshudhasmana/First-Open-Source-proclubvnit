@@ -11,7 +11,6 @@
     What if the same header file is included twice?
     Do reply your answers by commenting on our post @ proclub.codeingzone.in or drop us a mail at proclubvnit@gmail.com
 */
-//MAKE CHANGES
 #define ADDITION 1
 #define SUBTRACTION 2
 #define MULTIPLICATION 3
@@ -103,6 +102,7 @@ int main(){
 
 
     }
-
+    printff"i am himanshu";
     return 0;//Why do we do this?Any ideas? Do reply.
+    
 }
